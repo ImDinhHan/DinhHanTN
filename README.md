@@ -1,4 +1,4 @@
-# dinhhan.TN
+# DinhHan.TN
 # <p align="center">ᑎGᑌYEᑎ ᗪIᑎᕼ ᕼᗩᑎ҉</p>
 
 <p align="center">
