@@ -156,10 +156,9 @@ namespace DinhHanTN
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/DinhHanTN/DinhHanTN"> margin="100">
+<a href="https://github.com/DinhHanTN/DinhHanTN" margin="100">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinhHanTN&repo=DinhHanTN&theme=tokyonight" alt="DinhHanTN" />
 </a>
-</p>
 
 <a href="https://github.com/DinhHanTN/ThaoNguyen">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DinhHanTN&repo=ThaoNguyen&theme=tokyonight" alt="DinhHanTN" />
