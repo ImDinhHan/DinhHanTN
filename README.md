@@ -161,7 +161,7 @@ namespace DinhHanTN
 </a>
 
 <a href="https://github.com/DinhHanTN/snake">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DinhHanTN&repo=ThaoNguyen&theme=tokyonight" alt="DinhHanTN" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DinhHanTN&repo=snake&theme=tokyonight" alt="DinhHanTN" />
 </a>
 </p>
 
